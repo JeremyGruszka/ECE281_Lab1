@@ -16,8 +16,8 @@ A | B | C | X | Y | Z
 1 | 1 | 1 | 1 | 0 | 1
 
 #### K maps
-X = A'C + A'b + AB'C'
-Y = BC' + B'C
+X = A'C + A'b + AB'C'                                                                                                   
+Y = BC' + B'C                                                                                                           
 Z = C
 
 
